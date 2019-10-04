@@ -5,7 +5,8 @@
         "genre": "Top, Popular, 60s",
         "country": "",
         "bitrate": "128",
-        "streamURL": "http://dir.xiph.org/listen/631889/listen.m3u"
+        "streamURL": "http://dir.xiph.org/listen/631889/listen.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -13,7 +14,8 @@
         "genre": "Electronica Trance",
         "country": "Top, Popular, 80s",
         "bitrate": "128",
-        "streamURL": "http://dir.xiph.org/listen/654572/listen.m3u"
+        "streamURL": "http://dir.xiph.org/listen/654572/listen.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -21,7 +23,8 @@
         "genre": "Popular, Top",
         "country": "Germany",
         "bitrate": "128",
-        "streamURL": "http://dir.xiph.org/listen/110236/listen.m3u"
+        "streamURL": "http://dir.xiph.org/listen/110236/listen.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -29,7 +32,8 @@
         "genre": "Popular, Dance, Rock",
         "country": "",
         "bitrate": "128",
-        "streamURL": "http://dir.xiph.org/listen/748/listen.m3u"
+        "streamURL": "http://dir.xiph.org/listen/748/listen.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -37,7 +41,8 @@
         "genre": "Popular",
         "country": "",
         "bitrate": "128",
-        "streamURL": "http://dir.xiph.org/listen/578229/listen.m3u"
+        "streamURL": "http://dir.xiph.org/listen/578229/listen.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -45,7 +50,8 @@
         "genre": "Popular",
         "country": "Germany",
         "bitrate": "128",
-        "streamURL": "http://dir.xiph.org/listen/267/listen.m3u"
+        "streamURL": "http://dir.xiph.org/listen/267/listen.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -53,7 +59,8 @@
         "genre": "Popular, Relax",
         "country": "IBIZA",
         "bitrate": "128",
-        "streamURL": "http://dir.xiph.org/listen/4005/listen.m3u"
+        "streamURL": "http://dir.xiph.org/listen/4005/listen.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -61,7 +68,8 @@
         "genre": "Popular, Dance",
         "country": "",
         "bitrate": "128",
-        "streamURL": "http://dir.xiph.org/listen/500179/listen.m3u"
+        "streamURL": "http://dir.xiph.org/listen/500179/listen.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -69,7 +77,8 @@
         "genre": "Popular, Dance, Top",
         "country": "",
         "bitrate": "128",
-        "streamURL": "http://dir.xiph.org/listen/514874/listen.m3u"
+        "streamURL": "http://dir.xiph.org/listen/514874/listen.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -77,7 +86,8 @@
         "genre": "Popular, 60s, 70s, 80s, Classic",
         "country": "",
         "bitrate": "128",
-        "streamURL": "http://dir.xiph.org/listen/608320/listen.m3u"
+        "streamURL": "http://dir.xiph.org/listen/608320/listen.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -85,7 +95,8 @@
         "genre": "Popular, Relax",
         "country": "Germany",
         "bitrate": "128",
-        "streamURL": "http://dir.xiph.org/listen/1115/listen.m3u"
+        "streamURL": "http://dir.xiph.org/listen/1115/listen.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -93,7 +104,8 @@
         "genre": "Popular, Top",
         "country": "Belgium",
         "bitrate": "128",
-        "streamURL": "http://dir.xiph.org/listen/550435/listen.m3u"
+        "streamURL": "http://dir.xiph.org/listen/550435/listen.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -101,7 +113,8 @@
         "genre": "Popular, Relax",
         "country": "",
         "bitrate": "128",
-        "streamURL": "http://dir.xiph.org/listen/4191/listen.m3u"
+        "streamURL": "http://dir.xiph.org/listen/4191/listen.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -109,7 +122,8 @@
         "genre": "Popular, Country, Travel",
         "country": "",
         "bitrate": "128",
-        "streamURL": "http://dir.xiph.org/listen/323333/listen.m3u"
+        "streamURL": "http://dir.xiph.org/listen/323333/listen.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -117,7 +131,8 @@
         "genre": "Popular, Electronic",
         "country": "",
         "bitrate": "128",
-        "streamURL": "http://dir.xiph.org/listen/297097/listen.m3u"
+        "streamURL": "http://dir.xiph.org/listen/297097/listen.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -125,7 +140,8 @@
         "genre": "Popular, 60s, 70s, 80s",
         "country": "",
         "bitrate": "128",
-        "streamURL": "http://dir.xiph.org/listen/3128/listen.m3u"
+        "streamURL": "http://dir.xiph.org/listen/3128/listen.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -133,7 +149,8 @@
         "genre": "Popular, Dance",
         "country": "",
         "bitrate": "128",
-        "streamURL": "http://stream.dancewave.online:8080/dance.aac"
+        "streamURL": "http://stream.dancewave.online:8080/dance.aac",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -141,7 +158,8 @@
         "genre": "70s",
         "country": "USA",
         "bitrate": "128",
-        "streamURL": "http://listen.011fm.com:8000/stream04"
+        "streamURL": "http://listen.011fm.com:8000/stream04",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -149,7 +167,8 @@
         "genre": "70s",
         "country": "",
         "bitrate": "128",
-        "streamURL": "http://listen.radionomy.com/1HITS70s"
+        "streamURL": "http://listen.radionomy.com/1HITS70s",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -157,7 +176,8 @@
         "genre": "Trendings, 70s",
         "country": "UK",
         "bitrate": "128",
-        "streamURL": "http://tx.planetradio.co.uk/icecast.php?i=absolute70s.mp3"
+        "streamURL": "http://tx.planetradio.co.uk/icecast.php?i=absolute70s.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -165,7 +185,8 @@
         "genre": "Trendings, 80s",
         "country": "UK",
         "bitrate": "128",
-        "streamURL": "http://tx.planetradio.co.uk/icecast.php?i=absolute80s.mp3"
+        "streamURL": "http://tx.planetradio.co.uk/icecast.php?i=absolute80s.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -173,7 +194,8 @@
         "genre": "Trendings, 70s",
         "country": "Canada",
         "bitrate": "128",
-        "streamURL": "http://bb32.sonixcast.com:20084/;"
+        "streamURL": "http://bb32.sonixcast.com:20084/;",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -181,7 +203,8 @@
         "genre": "80s, Classic",
         "country": "UK",
         "bitrate": "128",
-        "streamURL": "http://uk3.internet-radio.com:8198/;"
+        "streamURL": "http://uk3.internet-radio.com:8198/;",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -189,7 +212,8 @@
         "genre": "80s",
         "country": "",
         "bitrate": "128",
-        "streamURL": "http://stn2.servemp3.com:8558/;"
+        "streamURL": "http://stn2.servemp3.com:8558/;",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -197,7 +221,8 @@
         "genre": "80s",
         "country": "Germany",
         "bitrate": "128",
-        "streamURL": "https://stream.laut.fm/best_of_80s"
+        "streamURL": "https://stream.laut.fm/best_of_80s",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -205,7 +230,8 @@
         "genre": "80s",
         "country": "US",
         "bitrate": "128",
-        "streamURL": "http://str1.sad.ukrd.com/eagle-80s.mp3"
+        "streamURL": "http://str1.sad.ukrd.com/eagle-80s.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -213,7 +239,8 @@
         "genre": "Trendings, 80s, Hits",
         "country": "US",
         "bitrate": "320",
-        "streamURL": "http://orion.shoutca.st:8998/stream"
+        "streamURL": "http://orion.shoutca.st:8998/stream",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -221,7 +248,8 @@
         "genre": "Hits, Trendings, 80s",
         "country": "Germany",
         "bitrate": "128",
-        "streamURL": "http://listen64.radionomy.com/fmhits80s"
+        "streamURL": "http://listen64.radionomy.com/fmhits80s",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -229,7 +257,8 @@
         "genre": "Hits, 80s, 70s",
         "country": "Spain",
         "bitrate": "128",
-        "streamURL": "http://streaming211.radionomy.com/80-EXITS"
+        "streamURL": "http://streaming211.radionomy.com/80-EXITS",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -237,7 +266,8 @@
         "genre": "Country, Trendings, Hits, 60s, 70s, 80s",
         "country": "USA",
         "bitrate": "128",
-        "streamURL": "http://ice7.securenetsystems.net/KKYA"
+        "streamURL": "http://ice7.securenetsystems.net/KKYA",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -245,7 +275,8 @@
         "genre": "80s, 70s",
         "country": "France",
         "bitrate": "128",
-        "streamURL": "http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3"
+        "streamURL": "http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -253,7 +284,8 @@
         "genre": "80s",
         "country": "United Kingdom",
         "bitrate": "128",
-        "streamURL": "http://uk5.internet-radio.com:8174/;"
+        "streamURL": "http://uk5.internet-radio.com:8174/;",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -261,7 +293,8 @@
         "genre": "80s",
         "country": "Germany",
         "bitrate": "128",
-        "streamURL": "https://stream.laut.fm/just80s"
+        "streamURL": "https://stream.laut.fm/just80s",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -269,7 +302,8 @@
         "genre": "80s",
         "country": "UK",
         "bitrate": "128",
-        "streamURL": "http://rss-streaming.co.uk:8062/;"
+        "streamURL": "http://rss-streaming.co.uk:8062/;",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -277,7 +311,8 @@
         "genre": "80s",
         "country": "UK",
         "bitrate": "128",
-        "streamURL": "http://rss-streaming.co.uk:8042/;"
+        "streamURL": "http://rss-streaming.co.uk:8042/;",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -285,7 +320,8 @@
         "genre": "90s, Dance",
         "country": "France",
         "bitrate": "128",
-        "streamURL": "http://streaming211.radionomy.com/A11-Radio-Dreams-90s"
+        "streamURL": "http://streaming211.radionomy.com/A11-Radio-Dreams-90s",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -293,7 +329,8 @@
         "genre": "Popular, 90s",
         "country": "UK",
         "bitrate": "128",
-        "streamURL": "http://streaming.radionomy.com/A-RADIO-90s-JUICE?br=128"
+        "streamURL": "http://streaming.radionomy.com/A-RADIO-90s-JUICE?br=128",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -301,7 +338,8 @@
         "genre": "90s",
         "country": "Belgium",
         "bitrate": "128",
-        "streamURL": "http://streaming.radionomy.com/Addictive-90s"
+        "streamURL": "http://streaming.radionomy.com/Addictive-90s",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -309,7 +347,8 @@
         "genre": "90s, Poppular, Dance, Hits",
         "country": "Canada",
         "bitrate": "128",
-        "streamURL": "http://streaming211.radionomy.com/Bestofthe90-s"
+        "streamURL": "http://streaming211.radionomy.com/Bestofthe90-s",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -317,7 +356,8 @@
         "genre": "Jazz, Popular",
         "country": "France",
         "bitrate": "128",
-        "streamURL": "http://streaming.radionomy.com/ABC-Jazz"
+        "streamURL": "http://streaming.radionomy.com/ABC-Jazz",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -325,7 +365,8 @@
         "genre": "classic, Popular",
         "country": "",
         "bitrate": "128",
-        "streamURL": "http://streaming.radionomy.com/1000HITSClassicalMusic"
+        "streamURL": "http://streaming.radionomy.com/1000HITSClassicalMusic",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -333,7 +374,8 @@
         "genre": "Electronica Trance",
         "country": "Switzerland",
         "bitrate": "128",
-        "streamURL": "http://strm112.1.fm/atr_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/atr_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -341,7 +383,8 @@
         "genre": "Adult Alternative",
         "country": "Bremen, Germany",
         "bitrate": "64",
-        "streamURL": "http://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/64/stream.mp3"
+        "streamURL": "http://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/64/stream.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -349,7 +392,8 @@
         "genre": "Adult Contemporary",
         "country": "Haarlem, nho, Netherlands",
         "bitrate": "320",
-        "streamURL": "http://stream.haarlem105.nl:8000/haarlem105high.mp3"
+        "streamURL": "http://stream.haarlem105.nl:8000/haarlem105high.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -357,7 +401,8 @@
         "genre": "Sertanejo",
         "country": "Sao Paulo, Brazil",
         "bitrate": "126",
-        "streamURL": "http://paineldj6.com.br:11750/live"
+        "streamURL": "http://paineldj6.com.br:11750/live",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -365,7 +410,8 @@
         "genre": "Rock",
         "country": "London, G, United Kingdom",
         "bitrate": "128",
-        "streamURL": "http://sc6.radiocaroline.net:8040/mp3"
+        "streamURL": "http://sc6.radiocaroline.net:8040/mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -373,7 +419,8 @@
         "genre": "Classic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/classical.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/classical.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -381,7 +428,8 @@
         "genre": "Classic Rock",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://emf.streamguys1.com/sk011_aac_low"
+        "streamURL": "http://emf.streamguys1.com/sk011_aac_low",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -389,7 +437,8 @@
         "genre": "Classic Hits",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/classichits.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/classichits.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -397,7 +446,8 @@
         "genre": "Decades, 70s",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/70hits.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/70hits.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -405,7 +455,8 @@
         "genre": "Decades, 70s",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/70hitspremium.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/70hitspremium.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -413,7 +464,8 @@
         "genre": "Decades, 80s",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/80hits.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/80hits.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -421,7 +473,8 @@
         "genre": "Decades, 80s",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/80hitspremium.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/80hitspremium.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -429,7 +482,8 @@
         "genre": "Trendings",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/MusicPulse.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/MusicPulse.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -437,7 +491,8 @@
         "genre": "Trendings",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/Newport.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/Newport.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -445,7 +500,8 @@
         "genre": "Alternative",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/alternativehits.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/alternativehits.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -453,7 +509,8 @@
         "genre": "Country, Hits, Trendings",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/countryhits.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/countryhits.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -461,7 +518,8 @@
         "genre": "Country",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/countryroads.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/countryroads.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -469,7 +527,8 @@
         "genre": "",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/jazzclub.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/jazzclub.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -477,7 +536,8 @@
         "genre": "R&B",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/mixlite.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/mixlite.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -485,7 +545,8 @@
         "genre": "Hits, Popular, Blues",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/newpophits.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/newpophits.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -493,7 +554,8 @@
         "genre": "Relax, Dance, R&B",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/relaxation.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/relaxation.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -501,7 +563,8 @@
         "genre": "Jazz",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/smoothjazz.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/smoothjazz.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -509,7 +572,8 @@
         "genre": "Dance",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/srcafeitaliano.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/srcafeitaliano.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -517,7 +581,8 @@
         "genre": "Dance",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/srdanceone.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/srdanceone.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -525,7 +590,8 @@
         "genre": "Dance",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/srdiscobeats.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/srdiscobeats.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -533,7 +599,8 @@
         "genre": "Blues",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/srstarburst.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/srstarburst.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -541,7 +608,8 @@
         "genre": "Holiday",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/srsoundsofsummer.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/srsoundsofsummer.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -549,7 +617,8 @@
         "genre": "Dance",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/srradioremix.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/srradioremix.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -557,7 +626,8 @@
         "genre": "Dance, Pop",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/srpopstream.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/srpopstream.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -565,7 +635,8 @@
         "genre": "Latin",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/srpoplatino.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/srpoplatino.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -573,7 +644,8 @@
         "genre": "Alternative, Classic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/crock_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/crock_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -581,7 +653,8 @@
         "genre": "Alternative",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/highvoltage_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/highvoltage_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -589,7 +662,8 @@
         "genre": "Alternative",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/rockclassics_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/rockclassics_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -597,7 +671,8 @@
         "genre": "Alternative",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/x_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/x_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -605,7 +680,8 @@
         "genre": "Alternative",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/srtodaysrock.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/srtodaysrock.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -613,7 +689,8 @@
         "genre": "Alternative",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/srtherevolutiondemo.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/srtherevolutiondemo.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -621,7 +698,8 @@
         "genre": "Alternative",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/srthemood.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/srthemood.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -629,7 +707,8 @@
         "genre": "Alternative, Rock",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://jupiter.prostreaming.net/420radiohigh.m3u"
+        "streamURL": "http://jupiter.prostreaming.net/420radiohigh.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -637,7 +716,8 @@
         "genre": "Alternative",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://jupiter.prostreaming.net/altrevolthigh.m3u"
+        "streamURL": "http://jupiter.prostreaming.net/altrevolthigh.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -645,7 +725,8 @@
         "genre": "Ambient, Easy Listening",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/radiogaia_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/radiogaia_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -653,7 +734,8 @@
         "genre": "Ambient, Easy Listening",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/spa_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/spa_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -661,7 +743,8 @@
         "genre": "Blues",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/blues_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/blues_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -669,7 +752,8 @@
         "genre": "Blues",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://jupiter.prostreaming.net/kram967high.m3u"
+        "streamURL": "http://jupiter.prostreaming.net/kram967high.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -677,7 +761,8 @@
         "genre": "Blues",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://jupiter.prostreaming.net/metalmixxhigh.m3u"
+        "streamURL": "http://jupiter.prostreaming.net/metalmixxhigh.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -685,7 +770,8 @@
         "genre": "Classic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/acpl_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/acpl_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -693,7 +779,8 @@
         "genre": "Classic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/baroque_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/baroque_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -701,7 +788,8 @@
         "genre": "Classic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/classical_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/classical_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -709,7 +797,8 @@
         "genre": "Classic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/opera_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/opera_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -717,7 +806,8 @@
         "genre": "Country",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/acountry_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/acountry_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -725,7 +815,8 @@
         "genre": "Country, Classic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/ccountry_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/ccountry_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -733,7 +824,8 @@
         "genre": "Country",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/country_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/country_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -741,7 +833,8 @@
         "genre": "Country",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -749,7 +842,8 @@
         "genre": "Country",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://jupiter.prostreaming.net/howlincountrylow.m3u"
+        "streamURL": "http://jupiter.prostreaming.net/howlincountrylow.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -757,7 +851,8 @@
         "genre": "Country",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://jupiter.prostreaming.net/swampylow.m3u"
+        "streamURL": "http://jupiter.prostreaming.net/swampylow.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -765,7 +860,8 @@
         "genre": "Dance/Club, Electronic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/club_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/club_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -773,7 +869,8 @@
         "genre": "Dance/Club, Electronic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/deephouse_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/deephouse_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -781,7 +878,8 @@
         "genre": "Dance/Club, Hits/Top 40",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/dance_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/dance_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -789,7 +887,8 @@
         "genre": "Dance/Club, Electronic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/dubstep_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/dubstep_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -797,7 +896,8 @@
         "genre": "Decades",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/70s_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/70s_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -805,7 +905,8 @@
         "genre": "Decades",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/80s_90s_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/80s_90s_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -813,7 +914,8 @@
         "genre": "Decades",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/back280s_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/back280s_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -821,7 +923,8 @@
         "genre": "Decades, Electronic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/disco_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/disco_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -829,7 +932,8 @@
         "genre": "Decades",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/funkyexpress_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/funkyexpress_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -837,7 +941,8 @@
         "genre": "Easy Listening, Decades",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/60s_70s_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/60s_70s_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -845,7 +950,8 @@
         "genre": "Easy Listening, Ambient, Electronic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/ambientpsy_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/ambientpsy_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -853,7 +959,8 @@
         "genre": "Easy Listening, Jazz",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/ajazz_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/ajazz_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -861,7 +968,8 @@
         "genre": "Easy Listening",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/bossanova_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/bossanova_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -869,7 +977,8 @@
         "genre": "Easy Listening, Ambient",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/brazilianbirds_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/brazilianbirds_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -877,7 +986,8 @@
         "genre": "Easy Listening, Ambient",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/costadelmarchillout_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/costadelmarchillout_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -885,7 +995,8 @@
         "genre": "Easy Listening, Dance/Club, Electronic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/electronica_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/electronica_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -893,7 +1004,8 @@
         "genre": "Easy Listening, Ambient",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/ibizachill_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/ibizachill_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -901,7 +1013,8 @@
         "genre": "Easy Listening, Alternative, Ambient",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/gorillafm_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/gorillafm_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -909,7 +1022,8 @@
         "genre": "Easy Listening",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/oldschool_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/oldschool_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -917,7 +1031,8 @@
         "genre": "Easy Listening, Jazz",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/smoothjazz_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/smoothjazz_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -925,7 +1040,8 @@
         "genre": "Easy Listening, Jazz",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/sax4ever_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/sax4ever_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -933,7 +1049,8 @@
         "genre": "Electronic, Ambient, Easy Listening",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/chilloutlounge_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/chilloutlounge_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -941,7 +1058,8 @@
         "genre": "Electronic, Dance/Club",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/circuitpride_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/circuitpride_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -949,7 +1067,8 @@
         "genre": "Electronic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/deeptech_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/deeptech_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -957,7 +1076,8 @@
         "genre": "Electronic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/edm_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/edm_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -965,7 +1085,8 @@
         "genre": "Electronic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/ibizachill_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/ibizachill_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -973,7 +1094,8 @@
         "genre": "Electronic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/hits2000_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/hits2000_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -981,7 +1103,8 @@
         "genre": "Electronic, Dance/Club",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/psytrance_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/psytrance_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -989,7 +1112,8 @@
         "genre": "Electronic, Dance/Club",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/trance_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/trance_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -997,7 +1121,8 @@
         "genre": "Hits/Top 40, Decades",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/90s_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/90s_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1005,7 +1130,8 @@
         "genre": "Hits/Top 40, Easy Listening",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/loveclassics_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/loveclassics_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1013,7 +1139,8 @@
         "genre": "Hits/Top 40, Decades",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/magic80_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/magic80_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1021,7 +1148,8 @@
         "genre": "Hits/Top 40",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/moviesoundtracks_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/moviesoundtracks_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1029,7 +1157,8 @@
         "genre": "Hits/Top 40, Easy Listening",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/onelive_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/onelive_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1037,7 +1166,8 @@
         "genre": "Hits/Top 40, Decades",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/partyzone90s_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/partyzone90s_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1045,7 +1175,8 @@
         "genre": "Hits/Top 40, Electronic",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/top40_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/top40_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1053,7 +1184,8 @@
         "genre": "Jazz",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://jupiter.prostreaming.net/phatzradiohigh.m3u"
+        "streamURL": "http://jupiter.prostreaming.net/phatzradiohigh.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1061,7 +1193,8 @@
         "genre": "Jazz",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://jupiter.prostreaming.net/queenafricaradiohigh.m3u"
+        "streamURL": "http://jupiter.prostreaming.net/queenafricaradiohigh.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1069,7 +1202,8 @@
         "genre": "Kids",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/kidsfm_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/kidsfm_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1077,7 +1211,8 @@
         "genre": "Kids",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://jupiter.prostreaming.net/kidsmixxhigh.m3u"
+        "streamURL": "http://jupiter.prostreaming.net/kidsmixxhigh.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1085,7 +1220,8 @@
         "genre": "Latin, Easy Listening",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/caferadio_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/caferadio_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1093,7 +1229,8 @@
         "genre": "Latin",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/latino_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/latino_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1101,7 +1238,8 @@
         "genre": "Latin",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/spanisholdies_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/spanisholdies_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1109,7 +1247,8 @@
         "genre": "Latin",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/spanishparty_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/spanishparty_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1117,7 +1256,8 @@
         "genre": "Latin",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/spanishtophits_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/spanishtophits_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1125,7 +1265,8 @@
         "genre": "R&B",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/jamz_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/jamz_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1133,7 +1274,8 @@
         "genre": "R&B",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/oldschool_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/oldschool_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1141,7 +1283,8 @@
         "genre": "R&B",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/slowjamz_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/slowjamz_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1149,7 +1292,8 @@
         "genre": "R&B",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://jupiter.prostreaming.net/90mixxlow.m3u"
+        "streamURL": "http://jupiter.prostreaming.net/90mixxlow.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1157,7 +1301,8 @@
         "genre": "Reggae",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/reggae_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/reggae_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1165,7 +1310,8 @@
         "genre": "Holiday",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://strm112.1.fm/christmas_mobile_mp3"
+        "streamURL": "http://strm112.1.fm/christmas_mobile_mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1173,7 +1319,8 @@
         "genre": "Holiday",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://rfcmedia.streamguys1.com/srtraditionalchristmas.mp3"
+        "streamURL": "http://rfcmedia.streamguys1.com/srtraditionalchristmas.mp3",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1181,7 +1328,8 @@
         "genre": "R&B, Dance",
         "country": "70s",
         "bitrate": "192",
-        "streamURL": "http://jupiter.prostreaming.net/groovymixxlow.m3u"
+        "streamURL": "http://jupiter.prostreaming.net/groovymixxlow.m3u",
+        "imageURL": ""
     },
     {
         "id": 1,
@@ -1189,6 +1337,7 @@
         "genre": "80s",
         "country": "",
         "bitrate": "192",
-        "streamURL": "http://jupiter.prostreaming.net/wickedmixxlow.m3u"
+        "streamURL": "http://jupiter.prostreaming.net/wickedmixxlow.m3u",
+        "imageURL": ""
     }
 ]
