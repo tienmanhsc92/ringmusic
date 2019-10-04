@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "All 60s All The Time",
+        "name": "All 60s All The Time",
         "genre": "Top, Popular, 60s",
         "country": "",
         "bitrate": "128",
@@ -9,7 +9,7 @@
     },
     {
         "id": 1,
-        "title": " All 80s",
+        "name": " All 80s",
         "genre": "Electronica Trance",
         "country": "Top, Popular, 80s",
         "bitrate": "128",
@@ -17,7 +17,7 @@
     },
     {
         "id": 1,
-        "title": "ANTENNE BAYERN",
+        "name": "ANTENNE BAYERN",
         "genre": "Popular, Top",
         "country": "Germany",
         "bitrate": "128",
@@ -25,7 +25,7 @@
     },
     {
         "id": 1,
-        "title": "ROCK ANTENNE",
+        "name": "ROCK ANTENNE",
         "genre": "Popular, Dance, Rock",
         "country": "",
         "bitrate": "128",
@@ -33,7 +33,7 @@
     },
     {
         "id": 1,
-        "title": "Monte Carlo",
+        "name": "Monte Carlo",
         "genre": "Popular",
         "country": "",
         "bitrate": "128",
@@ -41,7 +41,7 @@
     },
     {
         "id": 1,
-        "title": "ANTENNE BAYERN Oldies but Goldies",
+        "name": "ANTENNE BAYERN Oldies but Goldies",
         "genre": "Popular",
         "country": "Germany",
         "bitrate": "128",
@@ -49,7 +49,7 @@
     },
     {
         "id": 1,
-        "title": "Costa Del Mar - Chillout",
+        "name": "Costa Del Mar - Chillout",
         "genre": "Popular, Relax",
         "country": "IBIZA",
         "bitrate": "128",
@@ -57,7 +57,7 @@
     },
     {
         "id": 1,
-        "title": "Radio Record - Hot Dance",
+        "name": "Radio Record - Hot Dance",
         "genre": "Popular, Dance",
         "country": "",
         "bitrate": "128",
@@ -65,7 +65,7 @@
     },
     {
         "id": 1,
-        "title": "bigFM",
+        "name": "bigFM",
         "genre": "Popular, Dance, Top",
         "country": "",
         "bitrate": "128",
@@ -73,7 +73,7 @@
     },
     {
         "id": 1,
-        "title": "Radio Arabella Wien Live",
+        "name": "Radio Arabella Wien Live",
         "genre": "Popular, 60s, 70s, 80s, Classic",
         "country": "",
         "bitrate": "128",
@@ -81,7 +81,7 @@
     },
     {
         "id": 1,
-        "title": "ANTENNE BAYERN Chillout",
+        "name": "ANTENNE BAYERN Chillout",
         "genre": "Popular, Relax",
         "country": "Germany",
         "bitrate": "128",
@@ -89,7 +89,7 @@
     },
     {
         "id": 1,
-        "title": "TOPradio Belgium",
+        "name": "TOPradio Belgium",
         "genre": "Popular, Top",
         "country": "Belgium",
         "bitrate": "128",
@@ -97,7 +97,7 @@
     },
     {
         "id": 1,
-        "title": "Vip-Radios.FM - Absolute Chillout",
+        "name": "Vip-Radios.FM - Absolute Chillout",
         "genre": "Popular, Relax",
         "country": "",
         "bitrate": "128",
@@ -105,7 +105,7 @@
     },
     {
         "id": 1,
-        "title": "Muddy Country Radio",
+        "name": "Muddy Country Radio",
         "genre": "Popular, Country, Travel",
         "country": "",
         "bitrate": "128",
@@ -113,7 +113,7 @@
     },
     {
         "id": 1,
-        "title": "Revolution Radio Rus",
+        "name": "Revolution Radio Rus",
         "genre": "Popular, Electronic",
         "country": "",
         "bitrate": "128",
@@ -121,7 +121,7 @@
     },
     {
         "id": 1,
-        "title": "RGR Classic Hits",
+        "name": "RGR Classic Hits",
         "genre": "Popular, 60s, 70s, 80s",
         "country": "",
         "bitrate": "128",
@@ -129,7 +129,7 @@
     },
     {
         "id": 1,
-        "title": "Dance Wave!",
+        "name": "Dance Wave!",
         "genre": "Popular, Dance",
         "country": "",
         "bitrate": "128",
@@ -137,7 +137,7 @@
     },
     {
         "id": 1,
-        "title": "011.FM - Retro 70s",
+        "name": "011.FM - Retro 70s",
         "genre": "70s",
         "country": "USA",
         "bitrate": "128",
@@ -145,7 +145,7 @@
     },
     {
         "id": 1,
-        "title": "1 HITS 70s",
+        "name": "1 HITS 70s",
         "genre": "70s",
         "country": "",
         "bitrate": "128",
@@ -153,7 +153,7 @@
     },
     {
         "id": 1,
-        "title": "Absolute Radio 70s",
+        "name": "Absolute Radio 70s",
         "genre": "Trendings, 70s",
         "country": "UK",
         "bitrate": "128",
@@ -161,7 +161,7 @@
     },
     {
         "id": 1,
-        "title": "Absolute Radio 80s",
+        "name": "Absolute Radio 80s",
         "genre": "Trendings, 80s",
         "country": "UK",
         "bitrate": "128",
@@ -169,7 +169,7 @@
     },
     {
         "id": 1,
-        "title": "Classic Hits 109 - The 70s",
+        "name": "Classic Hits 109 - The 70s",
         "genre": "Trendings, 70s",
         "country": "Canada",
         "bitrate": "128",
@@ -177,7 +177,7 @@
     },
     {
         "id": 1,
-        "title": "Actual Radio",
+        "name": "Actual Radio",
         "genre": "80s, Classic",
         "country": "UK",
         "bitrate": "128",
@@ -185,7 +185,7 @@
     },
     {
         "id": 1,
-        "title": "Awesome 80s",
+        "name": "Awesome 80s",
         "genre": "80s",
         "country": "",
         "bitrate": "128",
@@ -193,7 +193,7 @@
     },
     {
         "id": 1,
-        "title": "Best of 80s",
+        "name": "Best of 80s",
         "genre": "80s",
         "country": "Germany",
         "bitrate": "128",
@@ -201,7 +201,7 @@
     },
     {
         "id": 1,
-        "title": "Eagle Radio 80s",
+        "name": "Eagle Radio 80s",
         "genre": "80s",
         "country": "US",
         "bitrate": "128",
@@ -209,7 +209,7 @@
     },
     {
         "id": 1,
-        "title": "Digital Impulse - Disco Hits 80s",
+        "name": "Digital Impulse - Disco Hits 80s",
         "genre": "Trendings, 80s, Hits",
         "country": "US",
         "bitrate": "320",
@@ -217,7 +217,7 @@
     },
     {
         "id": 1,
-        "title": "Hit 80s",
+        "name": "Hit 80s",
         "genre": "Hits, Trendings, 80s",
         "country": "Germany",
         "bitrate": "128",
@@ -225,7 +225,7 @@
     },
     {
         "id": 1,
-        "title": "Hospitalet - 80 Exits FM",
+        "name": "Hospitalet - 80 Exits FM",
         "genre": "Hits, 80s, 70s",
         "country": "Spain",
         "bitrate": "128",
@@ -233,7 +233,7 @@
     },
     {
         "id": 1,
-        "title": "Hot Country",
+        "name": "Hot Country",
         "genre": "Country, Trendings, Hits, 60s, 70s, 80s",
         "country": "USA",
         "bitrate": "128",
@@ -241,7 +241,7 @@
     },
     {
         "id": 1,
-        "title": "HOT Mix - 80",
+        "name": "HOT Mix - 80",
         "genre": "80s, 70s",
         "country": "France",
         "bitrate": "128",
@@ -249,7 +249,7 @@
     },
     {
         "id": 1,
-        "title": "Joy Radio",
+        "name": "Joy Radio",
         "genre": "80s",
         "country": "United Kingdom",
         "bitrate": "128",
@@ -257,7 +257,7 @@
     },
     {
         "id": 1,
-        "title": "Just 80s",
+        "name": "Just 80s",
         "genre": "80s",
         "country": "Germany",
         "bitrate": "128",
@@ -265,7 +265,7 @@
     },
     {
         "id": 1,
-        "title": "Love 80s Liverpool",
+        "name": "Love 80s Liverpool",
         "genre": "80s",
         "country": "UK",
         "bitrate": "128",
@@ -273,7 +273,7 @@
     },
     {
         "id": 1,
-        "title": "Love 80s Manchester",
+        "name": "Love 80s Manchester",
         "genre": "80s",
         "country": "UK",
         "bitrate": "128",
@@ -281,7 +281,7 @@
     },
     {
         "id": 1,
-        "title": "Radio Dreams 90s",
+        "name": "Radio Dreams 90s",
         "genre": "90s, Dance",
         "country": "France",
         "bitrate": "128",
@@ -289,7 +289,7 @@
     },
     {
         "id": 1,
-        "title": "Radio 90s Juice",
+        "name": "Radio 90s Juice",
         "genre": "Popular, 90s",
         "country": "UK",
         "bitrate": "128",
@@ -297,7 +297,7 @@
     },
     {
         "id": 1,
-        "title": "Addictive 90s",
+        "name": "Addictive 90s",
         "genre": "90s",
         "country": "Belgium",
         "bitrate": "128",
@@ -305,7 +305,7 @@
     },
     {
         "id": 1,
-        "title": "Best of 90s",
+        "name": "Best of 90s",
         "genre": "90s, Poppular, Dance, Hits",
         "country": "Canada",
         "bitrate": "128",
@@ -313,7 +313,7 @@
     },
     {
         "id": 1,
-        "title": "ABC JAZZ",
+        "name": "ABC JAZZ",
         "genre": "Jazz, Popular",
         "country": "France",
         "bitrate": "128",
@@ -321,7 +321,7 @@
     },
     {
         "id": 1,
-        "title": "1000 HITS CLASSICAL MUSIC",
+        "name": "1000 HITS CLASSICAL MUSIC",
         "genre": "classic, Popular",
         "country": "",
         "bitrate": "128",
@@ -329,7 +329,7 @@
     },
     {
         "id": 1,
-        "title": "1.FM - Amsterdam Trance",
+        "name": "1.FM - Amsterdam Trance",
         "genre": "Electronica Trance",
         "country": "Switzerland",
         "bitrate": "128",
@@ -337,7 +337,7 @@
     },
     {
         "id": 1,
-        "title": "Bremen Zwei",
+        "name": "Bremen Zwei",
         "genre": "Adult Alternative",
         "country": "Bremen, Germany",
         "bitrate": "64",
@@ -345,7 +345,7 @@
     },
     {
         "id": 1,
-        "title": "Haarlem 105",
+        "name": "Haarlem 105",
         "genre": "Adult Contemporary",
         "country": "Haarlem, nho, Netherlands",
         "bitrate": "320",
@@ -353,7 +353,7 @@
     },
     {
         "id": 1,
-        "title": "Nativa FM",
+        "name": "Nativa FM",
         "genre": "Sertanejo",
         "country": "Sao Paulo, Brazil",
         "bitrate": "126",
@@ -361,7 +361,7 @@
     },
     {
         "id": 1,
-        "title": "Radio Caroline",
+        "name": "Radio Caroline",
         "genre": "Rock",
         "country": "London, G, United Kingdom",
         "bitrate": "128",
@@ -369,7 +369,7 @@
     },
     {
         "id": 1,
-        "title": "Classical Music",
+        "name": "Classical Music",
         "genre": "Classic",
         "country": "",
         "bitrate": "192",
@@ -377,7 +377,7 @@
     },
     {
         "id": 1,
-        "title": "Classic Rock",
+        "name": "Classic Rock",
         "genre": "Classic Rock",
         "country": "",
         "bitrate": "192",
@@ -385,7 +385,7 @@
     },
     {
         "id": 1,
-        "title": "Classic Hits",
+        "name": "Classic Hits",
         "genre": "Classic Hits",
         "country": "",
         "bitrate": "192",
@@ -393,7 +393,7 @@
     },
     {
         "id": 1,
-        "title": "70's Hits",
+        "name": "70's Hits",
         "genre": "Decades, 70s",
         "country": "",
         "bitrate": "192",
@@ -401,7 +401,7 @@
     },
     {
         "id": 1,
-        "title": "70's Hits Premium",
+        "name": "70's Hits Premium",
         "genre": "Decades, 70s",
         "country": "",
         "bitrate": "192",
@@ -409,7 +409,7 @@
     },
     {
         "id": 1,
-        "title": "80's Hits",
+        "name": "80's Hits",
         "genre": "Decades, 80s",
         "country": "",
         "bitrate": "192",
@@ -417,7 +417,7 @@
     },
     {
         "id": 1,
-        "title": "80's Hits Premium",
+        "name": "80's Hits Premium",
         "genre": "Decades, 80s",
         "country": "",
         "bitrate": "192",
@@ -425,7 +425,7 @@
     },
     {
         "id": 1,
-        "title": "Today's Hits",
+        "name": "Today's Hits",
         "genre": "Trendings",
         "country": "",
         "bitrate": "192",
@@ -433,7 +433,7 @@
     },
     {
         "id": 1,
-        "title": "Newport Folk",
+        "name": "Newport Folk",
         "genre": "Trendings",
         "country": "",
         "bitrate": "192",
@@ -441,7 +441,7 @@
     },
     {
         "id": 1,
-        "title": "Alternative Hits",
+        "name": "Alternative Hits",
         "genre": "Alternative",
         "country": "",
         "bitrate": "192",
@@ -449,7 +449,7 @@
     },
     {
         "id": 1,
-        "title": "Country Hits",
+        "name": "Country Hits",
         "genre": "Country, Hits, Trendings",
         "country": "",
         "bitrate": "192",
@@ -457,7 +457,7 @@
     },
     {
         "id": 1,
-        "title": "Country Roads",
+        "name": "Country Roads",
         "genre": "Country",
         "country": "",
         "bitrate": "192",
@@ -465,7 +465,7 @@
     },
     {
         "id": 1,
-        "title": "Jazz Club",
+        "name": "Jazz Club",
         "genre": "",
         "country": "",
         "bitrate": "192",
@@ -473,7 +473,7 @@
     },
     {
         "id": 1,
-        "title": "Mix Lite",
+        "name": "Mix Lite",
         "genre": "R&B",
         "country": "",
         "bitrate": "192",
@@ -481,7 +481,7 @@
     },
     {
         "id": 1,
-        "title": "New Pop Hits",
+        "name": "New Pop Hits",
         "genre": "Hits, Popular, Blues",
         "country": "",
         "bitrate": "192",
@@ -489,7 +489,7 @@
     },
     {
         "id": 1,
-        "title": "Relax & Unwind",
+        "name": "Relax & Unwind",
         "genre": "Relax, Dance, R&B",
         "country": "",
         "bitrate": "192",
@@ -497,7 +497,7 @@
     },
     {
         "id": 1,
-        "title": "Smooth Jazz",
+        "name": "Smooth Jazz",
         "genre": "Jazz",
         "country": "",
         "bitrate": "192",
@@ -505,7 +505,7 @@
     },
     {
         "id": 1,
-        "title": "SR Cafe Italiano",
+        "name": "SR Cafe Italiano",
         "genre": "Dance",
         "country": "",
         "bitrate": "192",
@@ -513,7 +513,7 @@
     },
     {
         "id": 1,
-        "title": "SR Dance One",
+        "name": "SR Dance One",
         "genre": "Dance",
         "country": "",
         "bitrate": "192",
@@ -521,7 +521,7 @@
     },
     {
         "id": 1,
-        "title": "SR Disco Beats",
+        "name": "SR Disco Beats",
         "genre": "Dance",
         "country": "",
         "bitrate": "192",
@@ -529,7 +529,7 @@
     },
     {
         "id": 1,
-        "title": "Starburst",
+        "name": "Starburst",
         "genre": "Blues",
         "country": "",
         "bitrate": "192",
@@ -537,7 +537,7 @@
     },
     {
         "id": 1,
-        "title": "The Spandex Sound",
+        "name": "The Spandex Sound",
         "genre": "Holiday",
         "country": "",
         "bitrate": "192",
@@ -545,7 +545,7 @@
     },
     {
         "id": 1,
-        "title": "SR The Spandex Sound",
+        "name": "SR The Spandex Sound",
         "genre": "Dance",
         "country": "",
         "bitrate": "192",
@@ -553,7 +553,7 @@
     },
     {
         "id": 1,
-        "title": "SR Remix Radio",
+        "name": "SR Remix Radio",
         "genre": "Dance, Pop",
         "country": "",
         "bitrate": "192",
@@ -561,7 +561,7 @@
     },
     {
         "id": 1,
-        "title": "Pop Latino",
+        "name": "Pop Latino",
         "genre": "Latin",
         "country": "",
         "bitrate": "192",
@@ -569,7 +569,7 @@
     },
     {
         "id": 1,
-        "title": "Classic Rock Radio",
+        "name": "Classic Rock Radio",
         "genre": "Alternative, Classic",
         "country": "",
         "bitrate": "192",
@@ -577,7 +577,7 @@
     },
     {
         "id": 1,
-        "title": "High Voltage",
+        "name": "High Voltage",
         "genre": "Alternative",
         "country": "",
         "bitrate": "192",
@@ -585,7 +585,7 @@
     },
     {
         "id": 1,
-        "title": "Rock Classics",
+        "name": "Rock Classics",
         "genre": "Alternative",
         "country": "",
         "bitrate": "192",
@@ -593,7 +593,7 @@
     },
     {
         "id": 1,
-        "title": "Alternative Rock X Hits",
+        "name": "Alternative Rock X Hits",
         "genre": "Alternative",
         "country": "",
         "bitrate": "192",
@@ -601,7 +601,7 @@
     },
     {
         "id": 1,
-        "title": "SR Today's Rock",
+        "name": "SR Today's Rock",
         "genre": "Alternative",
         "country": "",
         "bitrate": "192",
@@ -609,7 +609,7 @@
     },
     {
         "id": 1,
-        "title": "The Revolution",
+        "name": "The Revolution",
         "genre": "Alternative",
         "country": "",
         "bitrate": "192",
@@ -617,7 +617,7 @@
     },
     {
         "id": 1,
-        "title": "The Mood",
+        "name": "The Mood",
         "genre": "Alternative",
         "country": "",
         "bitrate": "192",
@@ -625,7 +625,7 @@
     },
     {
         "id": 1,
-        "title": "420RADIO",
+        "name": "420RADIO",
         "genre": "Alternative, Rock",
         "country": "",
         "bitrate": "192",
@@ -633,7 +633,7 @@
     },
     {
         "id": 1,
-        "title": "A-1 Audio Revolt",
+        "name": "A-1 Audio Revolt",
         "genre": "Alternative",
         "country": "",
         "bitrate": "192",
@@ -641,7 +641,7 @@
     },
     {
         "id": 1,
-        "title": "Gaia",
+        "name": "Gaia",
         "genre": "Ambient, Easy Listening",
         "country": "",
         "bitrate": "192",
@@ -649,7 +649,7 @@
     },
     {
         "id": 1,
-        "title": "Destination: SPA",
+        "name": "Destination: SPA",
         "genre": "Ambient, Easy Listening",
         "country": "",
         "bitrate": "192",
@@ -657,7 +657,7 @@
     },
     {
         "id": 1,
-        "title": "Blues",
+        "name": "Blues",
         "genre": "Blues",
         "country": "",
         "bitrate": "192",
@@ -665,7 +665,7 @@
     },
     {
         "id": 1,
-        "title": "96.7kram",
+        "name": "96.7kram",
         "genre": "Blues",
         "country": "",
         "bitrate": "192",
@@ -673,7 +673,7 @@
     },
     {
         "id": 1,
-        "title": "The Metal MIXX",
+        "name": "The Metal MIXX",
         "genre": "Blues",
         "country": "",
         "bitrate": "192",
@@ -681,7 +681,7 @@
     },
     {
         "id": 1,
-        "title": "Acappella",
+        "name": "Acappella",
         "genre": "Classic",
         "country": "",
         "bitrate": "192",
@@ -689,7 +689,7 @@
     },
     {
         "id": 1,
-        "title": "Otto's Baroque Music",
+        "name": "Otto's Baroque Music",
         "genre": "Classic",
         "country": "",
         "bitrate": "192",
@@ -697,7 +697,7 @@
     },
     {
         "id": 1,
-        "title": "Otto's Classical Music",
+        "name": "Otto's Classical Music",
         "genre": "Classic",
         "country": "",
         "bitrate": "192",
@@ -705,7 +705,7 @@
     },
     {
         "id": 1,
-        "title": "Otto's Opera House Music",
+        "name": "Otto's Opera House Music",
         "genre": "Classic",
         "country": "",
         "bitrate": "192",
@@ -713,7 +713,7 @@
     },
     {
         "id": 1,
-        "title": "Absolute Country Hits",
+        "name": "Absolute Country Hits",
         "genre": "Country",
         "country": "",
         "bitrate": "192",
@@ -721,7 +721,7 @@
     },
     {
         "id": 1,
-        "title": "Classic Country",
+        "name": "Classic Country",
         "genre": "Country, Classic",
         "country": "",
         "bitrate": "192",
@@ -729,7 +729,7 @@
     },
     {
         "id": 1,
-        "title": "Country One",
+        "name": "Country One",
         "genre": "Country",
         "country": "",
         "bitrate": "192",
@@ -737,7 +737,7 @@
     },
     {
         "id": 1,
-        "title": "SR Today's Country Hits",
+        "name": "SR Today's Country Hits",
         "genre": "Country",
         "country": "",
         "bitrate": "192",
@@ -745,7 +745,7 @@
     },
     {
         "id": 1,
-        "title": "Howlin Country",
+        "name": "Howlin Country",
         "genre": "Country",
         "country": "",
         "bitrate": "192",
@@ -753,7 +753,7 @@
     },
     {
         "id": 1,
-        "title": "The Ranch",
+        "name": "The Ranch",
         "genre": "Country",
         "country": "",
         "bitrate": "192",
@@ -761,7 +761,7 @@
     },
     {
         "id": 1,
-        "title": "Club 1",
+        "name": "Club 1",
         "genre": "Dance/Club, Electronic",
         "country": "",
         "bitrate": "192",
@@ -769,7 +769,7 @@
     },
     {
         "id": 1,
-        "title": "Deep House",
+        "name": "Deep House",
         "genre": "Dance/Club, Electronic",
         "country": "",
         "bitrate": "192",
@@ -777,7 +777,7 @@
     },
     {
         "id": 1,
-        "title": "Dance One",
+        "name": "Dance One",
         "genre": "Dance/Club, Hits/Top 40",
         "country": "",
         "bitrate": "192",
@@ -785,7 +785,7 @@
     },
     {
         "id": 1,
-        "title": "Dubstep Forward",
+        "name": "Dubstep Forward",
         "genre": "Dance/Club, Electronic",
         "country": "",
         "bitrate": "192",
@@ -793,7 +793,7 @@
     },
     {
         "id": 1,
-        "title": "Absolute 70's Pop",
+        "name": "Absolute 70's Pop",
         "genre": "Decades",
         "country": "",
         "bitrate": "192",
@@ -801,7 +801,7 @@
     },
     {
         "id": 1,
-        "title": "All Euro 80's",
+        "name": "All Euro 80's",
         "genre": "Decades",
         "country": "",
         "bitrate": "192",
@@ -809,7 +809,7 @@
     },
     {
         "id": 1,
-        "title": "A List 80s",
+        "name": "A List 80s",
         "genre": "Decades",
         "country": "",
         "bitrate": "192",
@@ -817,7 +817,7 @@
     },
     {
         "id": 1,
-        "title": "Disco Ball 70's-80's",
+        "name": "Disco Ball 70's-80's",
         "genre": "Decades, Electronic",
         "country": "",
         "bitrate": "192",
@@ -825,7 +825,7 @@
     },
     {
         "id": 1,
-        "title": "Funky Express, R&B",
+        "name": "Funky Express, R&B",
         "genre": "Decades",
         "country": "",
         "bitrate": "192",
@@ -833,7 +833,7 @@
     },
     {
         "id": 1,
-        "title": "Back To The 50's & 60's",
+        "name": "Back To The 50's & 60's",
         "genre": "Easy Listening, Decades",
         "country": "",
         "bitrate": "192",
@@ -841,7 +841,7 @@
     },
     {
         "id": 1,
-        "title": "Ambient Psychill",
+        "name": "Ambient Psychill",
         "genre": "Easy Listening, Ambient, Electronic",
         "country": "",
         "bitrate": "192",
@@ -849,7 +849,7 @@
     },
     {
         "id": 1,
-        "title": "Adore Jazz",
+        "name": "Adore Jazz",
         "genre": "Easy Listening, Jazz",
         "country": "",
         "bitrate": "192",
@@ -857,7 +857,7 @@
     },
     {
         "id": 1,
-        "title": "Bossa Nova Hits",
+        "name": "Bossa Nova Hits",
         "genre": "Easy Listening",
         "country": "",
         "bitrate": "192",
@@ -865,7 +865,7 @@
     },
     {
         "id": 1,
-        "title": "Brazilian Birds",
+        "name": "Brazilian Birds",
         "genre": "Easy Listening, Ambient",
         "country": "",
         "bitrate": "192",
@@ -873,7 +873,7 @@
     },
     {
         "id": 1,
-        "title": "Costa Del Mar",
+        "name": "Costa Del Mar",
         "genre": "Easy Listening, Ambient",
         "country": "",
         "bitrate": "192",
@@ -881,7 +881,7 @@
     },
     {
         "id": 1,
-        "title": "Afterbeat Electronica",
+        "name": "Afterbeat Electronica",
         "genre": "Easy Listening, Dance/Club, Electronic",
         "country": "",
         "bitrate": "192",
@@ -889,7 +889,7 @@
     },
     {
         "id": 1,
-        "title": "Lbiza Chill Tropical",
+        "name": "Lbiza Chill Tropical",
         "genre": "Easy Listening, Ambient",
         "country": "",
         "bitrate": "192",
@@ -897,7 +897,7 @@
     },
     {
         "id": 1,
-        "title": "Gorilla FM",
+        "name": "Gorilla FM",
         "genre": "Easy Listening, Alternative, Ambient",
         "country": "",
         "bitrate": "192",
@@ -905,7 +905,7 @@
     },
     {
         "id": 1,
-        "title": "Adult Urban Hits Choice",
+        "name": "Adult Urban Hits Choice",
         "genre": "Easy Listening",
         "country": "",
         "bitrate": "192",
@@ -913,7 +913,7 @@
     },
     {
         "id": 1,
-        "title": "Bay Smooth Jazz",
+        "name": "Bay Smooth Jazz",
         "genre": "Easy Listening, Jazz",
         "country": "",
         "bitrate": "192",
@@ -921,7 +921,7 @@
     },
     {
         "id": 1,
-        "title": "Sax4Love",
+        "name": "Sax4Love",
         "genre": "Easy Listening, Jazz",
         "country": "",
         "bitrate": "192",
@@ -929,7 +929,7 @@
     },
     {
         "id": 1,
-        "title": "Chillout Lounge",
+        "name": "Chillout Lounge",
         "genre": "Electronic, Ambient, Easy Listening",
         "country": "",
         "bitrate": "192",
@@ -937,7 +937,7 @@
     },
     {
         "id": 1,
-        "title": "Circuit Pride",
+        "name": "Circuit Pride",
         "genre": "Electronic, Dance/Club",
         "country": "",
         "bitrate": "192",
@@ -945,7 +945,7 @@
     },
     {
         "id": 1,
-        "title": "Deep Techno & Deep House",
+        "name": "Deep Techno & Deep House",
         "genre": "Electronic",
         "country": "",
         "bitrate": "192",
@@ -953,7 +953,7 @@
     },
     {
         "id": 1,
-        "title": "EDM",
+        "name": "EDM",
         "genre": "Electronic",
         "country": "",
         "bitrate": "192",
@@ -961,7 +961,7 @@
     },
     {
         "id": 1,
-        "title": "Ibiza Chill Tropical",
+        "name": "Ibiza Chill Tropical",
         "genre": "Electronic",
         "country": "",
         "bitrate": "192",
@@ -969,7 +969,7 @@
     },
     {
         "id": 1,
-        "title": "Top Hits 2000",
+        "name": "Top Hits 2000",
         "genre": "Electronic",
         "country": "",
         "bitrate": "192",
@@ -977,7 +977,7 @@
     },
     {
         "id": 1,
-        "title": "BOM Psytrance",
+        "name": "BOM Psytrance",
         "genre": "Electronic, Dance/Club",
         "country": "",
         "bitrate": "192",
@@ -985,7 +985,7 @@
     },
     {
         "id": 1,
-        "title": "Absolute Trance (Euro)",
+        "name": "Absolute Trance (Euro)",
         "genre": "Electronic, Dance/Club",
         "country": "",
         "bitrate": "192",
@@ -993,7 +993,7 @@
     },
     {
         "id": 1,
-        "title": "Absolute 90's",
+        "name": "Absolute 90's",
         "genre": "Hits/Top 40, Decades",
         "country": "",
         "bitrate": "192",
@@ -1001,7 +1001,7 @@
     },
     {
         "id": 1,
-        "title": "Love Classics",
+        "name": "Love Classics",
         "genre": "Hits/Top 40, Easy Listening",
         "country": "",
         "bitrate": "192",
@@ -1009,7 +1009,7 @@
     },
     {
         "id": 1,
-        "title": "Magic 80",
+        "name": "Magic 80",
         "genre": "Hits/Top 40, Decades",
         "country": "",
         "bitrate": "192",
@@ -1017,7 +1017,7 @@
     },
     {
         "id": 1,
-        "title": "Movie Soundtracks Hits",
+        "name": "Movie Soundtracks Hits",
         "genre": "Hits/Top 40",
         "country": "",
         "bitrate": "192",
@@ -1025,7 +1025,7 @@
     },
     {
         "id": 1,
-        "title": "America's Best Ballads",
+        "name": "America's Best Ballads",
         "genre": "Hits/Top 40, Easy Listening",
         "country": "",
         "bitrate": "192",
@@ -1033,7 +1033,7 @@
     },
     {
         "id": 1,
-        "title": "Absolute 90s Party Zone",
+        "name": "Absolute 90s Party Zone",
         "genre": "Hits/Top 40, Decades",
         "country": "",
         "bitrate": "192",
@@ -1041,7 +1041,7 @@
     },
     {
         "id": 1,
-        "title": "Absolute TOP 40",
+        "name": "Absolute TOP 40",
         "genre": "Hits/Top 40, Electronic",
         "country": "",
         "bitrate": "192",
@@ -1049,7 +1049,7 @@
     },
     {
         "id": 1,
-        "title": "Phatz Radio",
+        "name": "Phatz Radio",
         "genre": "Jazz",
         "country": "",
         "bitrate": "192",
@@ -1057,7 +1057,7 @@
     },
     {
         "id": 1,
-        "title": "QUEEN AFRICA RADIO",
+        "name": "QUEEN AFRICA RADIO",
         "genre": "Jazz",
         "country": "",
         "bitrate": "192",
@@ -1065,7 +1065,7 @@
     },
     {
         "id": 1,
-        "title": "Kids FM",
+        "name": "Kids FM",
         "genre": "Kids",
         "country": "",
         "bitrate": "192",
@@ -1073,7 +1073,7 @@
     },
     {
         "id": 1,
-        "title": "The Kids MIXX",
+        "name": "The Kids MIXX",
         "genre": "Kids",
         "country": "",
         "bitrate": "192",
@@ -1081,7 +1081,7 @@
     },
     {
         "id": 1,
-        "title": "Cafe",
+        "name": "Cafe",
         "genre": "Latin, Easy Listening",
         "country": "",
         "bitrate": "192",
@@ -1089,7 +1089,7 @@
     },
     {
         "id": 1,
-        "title": "Absolute Pop Latino",
+        "name": "Absolute Pop Latino",
         "genre": "Latin",
         "country": "",
         "bitrate": "192",
@@ -1097,7 +1097,7 @@
     },
     {
         "id": 1,
-        "title": "Exitos del Ayer",
+        "name": "Exitos del Ayer",
         "genre": "Latin",
         "country": "",
         "bitrate": "192",
@@ -1105,7 +1105,7 @@
     },
     {
         "id": 1,
-        "title": "Top Fiesta",
+        "name": "Top Fiesta",
         "genre": "Latin",
         "country": "",
         "bitrate": "192",
@@ -1113,7 +1113,7 @@
     },
     {
         "id": 1,
-        "title": "Total Hits En Español",
+        "name": "Total Hits En Español",
         "genre": "Latin",
         "country": "",
         "bitrate": "192",
@@ -1121,7 +1121,7 @@
     },
     {
         "id": 1,
-        "title": "Jamz",
+        "name": "Jamz",
         "genre": "R&B",
         "country": "",
         "bitrate": "192",
@@ -1129,7 +1129,7 @@
     },
     {
         "id": 1,
-        "title": "Adult Urban Hits Choice",
+        "name": "Adult Urban Hits Choice",
         "genre": "R&B",
         "country": "",
         "bitrate": "192",
@@ -1137,7 +1137,7 @@
     },
     {
         "id": 1,
-        "title": "Slow Jamz",
+        "name": "Slow Jamz",
         "genre": "R&B",
         "country": "",
         "bitrate": "192",
@@ -1145,7 +1145,7 @@
     },
     {
         "id": 1,
-        "title": "The Party MIXX",
+        "name": "The Party MIXX",
         "genre": "R&B",
         "country": "",
         "bitrate": "192",
@@ -1153,7 +1153,7 @@
     },
     {
         "id": 1,
-        "title": "ReggaeTrade",
+        "name": "ReggaeTrade",
         "genre": "Reggae",
         "country": "",
         "bitrate": "192",
@@ -1161,7 +1161,7 @@
     },
     {
         "id": 1,
-        "title": "Always-Christmas",
+        "name": "Always-Christmas",
         "genre": "Holiday",
         "country": "",
         "bitrate": "192",
@@ -1169,7 +1169,7 @@
     },
     {
         "id": 1,
-        "title": "SR Traditional Christmas",
+        "name": "SR Traditional Christmas",
         "genre": "Holiday",
         "country": "",
         "bitrate": "192",
@@ -1177,7 +1177,7 @@
     },
     {
         "id": 1,
-        "title": "The Groovy MIXX",
+        "name": "The Groovy MIXX",
         "genre": "R&B, Dance",
         "country": "70s",
         "bitrate": "192",
@@ -1185,7 +1185,7 @@
     },
     {
         "id": 1,
-        "title": "The Wicked MIXX",
+        "name": "The Wicked MIXX",
         "genre": "80s",
         "country": "",
         "bitrate": "192",
