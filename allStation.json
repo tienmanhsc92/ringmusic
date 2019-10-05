@@ -866,7 +866,7 @@
     {
         "id": 1,
         "name": "Deep House",
-        "genre": "Dance/Club, Electronic, Sleep",
+        "genre": "Dance/Club, Electronic, Sleep, Party",
         "country": "",
         "bitrate": "192",
         "streamURL": "http://strm112.1.fm/deephouse_mobile_mp3",
@@ -902,7 +902,7 @@
     {
         "id": 1,
         "name": "All Euro 80's",
-        "genre": "Decades",
+        "genre": "Decades, Party",
         "country": "",
         "bitrate": "192",
         "streamURL": "http://strm112.1.fm/80s_90s_mobile_mp3",
@@ -992,7 +992,7 @@
     {
         "id": 1,
         "name": "Afterbeat Electronica",
-        "genre": "Trendings, Easy Listening, Dance/Club, Electronic",
+        "genre": "Trendings, Easy Listening, Dance/Club, Electronic, Party",
         "country": "",
         "bitrate": "192",
         "streamURL": "http://strm112.1.fm/electronica_mobile_mp3",
@@ -1010,7 +1010,7 @@
     {
         "id": 1,
         "name": "Gorilla FM",
-        "genre": "Easy Listening, Alternative, Ambient",
+        "genre": "Easy Listening, Alternative, Ambient, Party",
         "country": "",
         "bitrate": "192",
         "streamURL": "http://strm112.1.fm/gorillafm_mobile_mp3",
@@ -1090,11 +1090,20 @@
     },
     {
         "id": 1,
-        "name": "Top Hits 2000, Travel",
+        "name": "Top Hits 2000, Travel, Party",
         "genre": "Trendings, Electronic",
         "country": "",
         "bitrate": "192",
         "streamURL": "http://strm112.1.fm/hits2000_mobile_mp3",
+        "imageURL": ""
+    },
+    {
+        "id": 1,
+        "name": "Samba Hits Brazil",
+        "genre": "Hits, Party",
+        "country": "",
+        "bitrate": "192",
+        "streamURL": "http://strm112.1.fm/samba_mobile_mp3",
         "imageURL": ""
     },
     {
@@ -1118,10 +1127,19 @@
     {
         "id": 1,
         "name": "Absolute 90's",
-        "genre": "Hits/Top 40, Decades, Classic",
+        "genre": "Hits/Top 40, Decades, Classic, Party",
         "country": "",
         "bitrate": "192",
         "streamURL": "http://strm112.1.fm/90s_mobile_mp3",
+        "imageURL": ""
+    },
+    {
+        "id": 1,
+        "name": "ALL TIMES HITS",
+        "genre": "Party,Rock, R&B, Popular",
+        "country": "",
+        "bitrate": "192",
+        "streamURL": "http://strm112.1.fm/allmixedup_mobile_mp3",
         "imageURL": ""
     },
     {
