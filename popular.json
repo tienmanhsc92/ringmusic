@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Baby Drunk",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 22,
         "rate": 5,
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "title": "Baby Rap New Version",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 27,
         "rate": 5,
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "title": "Car Lock",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 1,
         "rate": 5,
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "title": "Club Remix",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 28,
         "rate": 5,
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "title": "Daughter Callin",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 29,
         "rate": 5,
@@ -47,7 +47,7 @@
     {
         "id": 6,
         "title": "Frog Sms",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 7,
         "rate": 5,
@@ -56,7 +56,7 @@
     {
         "id": 7,
         "title": "Godfather Guitar",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 29,
         "rate": 5,
@@ -65,7 +65,7 @@
     {
         "id": 8,
         "title": "Hip Hop Alarm",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 29,
         "rate": 5,
@@ -74,7 +74,7 @@
     {
         "id": 9,
         "title": "Hip Hop Beat Tone",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 23,
         "rate": 5,
@@ -83,7 +83,7 @@
     {
         "id": 10,
         "title": "I Just Called",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 13,
         "rate": 5,
@@ -92,7 +92,7 @@
     {
         "id": 11,
         "title": "Irish Traditional",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 29,
         "rate": 5,
@@ -101,7 +101,7 @@
     {
         "id": 12,
         "title": "Mental Hospital",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 28,
         "rate": 5,
@@ -110,7 +110,7 @@
     {
         "id": 13,
         "title": "Minions Text Message",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 9,
         "rate": 5,
@@ -119,7 +119,7 @@
     {
         "id": 14,
         "title": "Fire Truck Siren",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 10,
         "rate": 5,
@@ -128,7 +128,7 @@
     {
         "id": 15,
         "title": "Nice SMS",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 1,
         "rate": 5,
@@ -137,7 +137,7 @@
     {
         "id": 16,
         "title": "Perfect Ring Tone",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 26,
         "rate": 5,
@@ -146,7 +146,7 @@
     {
         "id": 17,
         "title": "Redneck Ringtone",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 14,
         "rate": 5,
@@ -155,7 +155,7 @@
     {
         "id": 18,
         "title": "Ring Reggae",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 29,
         "rate": 5,
@@ -164,7 +164,7 @@
     {
         "id": 19,
         "title": "Scratch SMS",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 9,
         "rate": 5,
@@ -173,7 +173,7 @@
     {
         "id": 20,
         "title": "Spanish Guitar",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 28,
         "rate": 5,
@@ -182,7 +182,7 @@
     {
         "id": 21,
         "title": "Telephone Ring",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 20,
         "rate": 5,
@@ -191,7 +191,7 @@
     {
         "id": 22,
         "title": "Woo Hoo Text Message",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 2,
         "rate": 5,
@@ -200,7 +200,7 @@
     {
         "id": 23,
         "title": "Yo Phone is Ringing",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 29,
         "rate": 5,
@@ -209,7 +209,7 @@
     {
         "id": 24,
         "title": "You Have Got Mail",
-        "genre": "Trendings",
+        "genre": "Most Popular",
         "artist": "no Aritist",
         "duration": 1,
         "rate": 5,
