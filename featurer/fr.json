@@ -2,56 +2,67 @@
     {
         "title": "Smooth Jazz Florida",
         "streamURL": "http://us4.internet-radio.com:8266/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/smoothjazz.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/smoothjazz.png",
+        "country" : "United States, Florida"
     },
     {
         "title": "Classic Rock Florida HD",
         "streamURL": "http://us4.internet-radio.com:8258/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/classicHD.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/classicHD.jpg",
+        "country" : "United States, Florida"
     },
     {
         "title": "SALT FM",
         "streamURL": "http://uk6.internet-radio.com:8358/live.m3u",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/SALTFM.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/SALTFM.jpg",
+        "country" : "United Kingdom, England, London"
     },
     {
         "title": "Oldiefans Radio",
         "streamURL": "http://de1.internet-radio.com:8211/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/Oldiefans.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/Oldiefans.png",
+        "country" : "Germany, Lower Saxony, Brietlingen"
     },
     {
-        "title": "CLASSIC ROCK RADIO  HD",
+        "title": "CLASSIC ROCK RADIO HD",
         "streamURL": "http://us5.internet-radio.com:8267/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/classicRock.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/classicRock.png",
+        "country" : "United States, Minnesota, Montevideo"
     },
     {
         "title": "Box UK Radio",
         "streamURL": "http://uk7.internet-radio.com:8226/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/box.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/box.png",
+        "country" : "United Kingdom, England, Birmingham"
     },
     {
         "title": "Majestic Jukebox Radio",
         "streamURL": "http://uk3.internet-radio.com:8405/live.m3u",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/MajesticJukebox.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/MajesticJukebox.jpg",
+        "country" : "United Kingdom, England, City of London"
     },
     {
         "title": "EZ Hits South Florida",
         "streamURL": "http://us4.internet-radio.com:8197/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/ezflorida.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/ezflorida.jpg",
+        "country" : "United States, Florida, Hollywood"
     },
     {
         "title": "Pink Noise Radio",
         "streamURL": "http://uk1.internet-radio.com:8004/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/PinkNoise.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/PinkNoise.jpg",
+        "country" : "United Kingdom"
     },
     {
         "title": "Dance UK Radio",
         "streamURL": "http://uk2.internet-radio.com:8024/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/Dance UK Radio.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/Dance UK Radio.png",
+        "country" : "United Kingdom, England, Birmingham"
     },
     {
         "title": "Smooth Jazz Global HD",
         "streamURL": "http://uk3.internet-radio.com:8021/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/smoothjazhd.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/smoothjazhd.png",
+        "country" : "United Kingdom, England, Lodon"
     }
 ]
