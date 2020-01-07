@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Smooth Jazz Florida",
+        "streamURL": "http://us4.internet-radio.com:8266/listen.pls",
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/smoothjazz.png"
+    },
+    {
+        "title": "Classic Rock Florida HD",
+        "streamURL": "http://us4.internet-radio.com:8258/listen.pls",
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/classicHD.jpg"
+    },
+    {
+        "title": "SALT FM",
+        "streamURL": "http://uk6.internet-radio.com:8358/live.m3u",
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/SALTFM.jpg"
+    },
+    {
+        "title": "Oldiefans Radio",
+        "streamURL": "http://de1.internet-radio.com:8211/listen.pls",
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/Oldiefans.png"
+    },
+    {
+        "title": "CLASSIC ROCK RADIO  HD",
+        "streamURL": "http://us5.internet-radio.com:8267/listen.pls",
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/classicRock.png"
+    },
+    {
+        "title": "Box UK Radio",
+        "streamURL": "http://uk7.internet-radio.com:8226/listen.pls",
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/box.png"
+    },
+    {
+        "title": "Majestic Jukebox Radio",
+        "streamURL": "http://uk3.internet-radio.com:8405/live.m3u",
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/MajesticJukebox.jpg"
+    },
+    {
+        "title": "EZ Hits South Florida",
+        "streamURL": "http://us4.internet-radio.com:8197/listen.pls",
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/ezflorida.jpg"
+    },
+    {
+        "title": "Pink Noise Radio",
+        "streamURL": "http://uk1.internet-radio.com:8004/listen.pls",
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/PinkNoise.jpg"
+    },
+    {
+        "title": "Dance UK Radio",
+        "streamURL": "http://uk2.internet-radio.com:8024/listen.pls",
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/Dance UK Radio.png"
+    },
+    {
+        "title": "Smooth Jazz Global HD",
+        "streamURL": "http://uk3.internet-radio.com:8021/listen.pls",
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/smoothjazhd.png"
+    }
+]
