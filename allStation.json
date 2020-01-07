@@ -1,6 +1,15 @@
 [
     {
         "id": 1,
+        "name": "Smooth Jazz Florida",
+        "genre": "Top, Popular, 60s, Classic",
+        "country": "",
+        "bitrate": "128",
+        "streamURL": "http://us4.internet-radio.com:8266/listen.pls",
+        "imageURL": ""
+    },
+    {
+        "id": 1,
         "name": "All 60s All The Time",
         "genre": "Top, Popular, 60s, Classic",
         "country": "",
