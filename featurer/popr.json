@@ -2,141 +2,169 @@
     {
         "title": "PONdENDS RADIO",
         "streamURL": "http://s7.voscast.com:7000/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/ponend.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/ponend.jpg",
+        "country" : "Jamaica, Kingston"
     },
     {
         "title": "Venice Classic Radio Italia",
         "streamURL": "http://174.36.206.197:8000/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/Venice.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/Venice.jpg",
+        "country" : "Italia, Veneto, Venice"
     },
     {
         "title": "Radio X-MAS",
         "streamURL": "http://77.75.16.229:443/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/xm.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/xm.png",
+        "country" : ""
     },
     {
-        "title": "PulseEDM Dance Music Radio",
+        "title": "Pulse EDM Dance Music Radio",
         "streamURL": "http://pulseedm.cdnstream1.com:8124/1373_128.m3u",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/Pulse.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/Pulse.jpg",
+        "country" : "United States of America"
     },
     {
         "title": "Easy Hits Florida",
         "streamURL": "http://airspectrum.cdnstream1.com:8114/1648_128.m3u",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/easyf.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/easyf.jpg",
+        "country" : "United States, Florida, Coconut Creek"
     },
     {
         "title": "Shripad Radio",
         "streamURL": "http://144.217.203.184:8112/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/Shrip.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/Shrip.jpg",
+        "country" : "India"
     },
     {
         "title": "JAZZ GROOVE",
         "streamURL": "http://199.180.72.2:8015/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/jzg.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/jzg.png",
+        "country" : "United States, California, San Francisco"
     },
     {
         "title": "LOUNGE RADIO",
         "streamURL": "http://77.235.42.90:80/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/lour.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/lour.png",
+        "country" : "France, Paris"
     },
     {
         "title": "San Franciscos 70s Hits",
         "streamURL": "http://198.178.123.17:10922/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/sf7.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/sf7.jpg",
+        "country" : "United States, San Francisco"
     },
     {
         "title": "Diverse FM",
         "streamURL": "http://109.169.46.197:8011/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/divf.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/divf.png",
+        "country" : "United Kingdom, England , London"
     },
     {
         "title": "Smooth Jazz Florida",
         "streamURL": "http://us4.internet-radio.com:8266/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/smoothjazz.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/smoothjazz.png",
+        "country" : "United States, Florida"
     },
     {
         "title": "Majestic Jukebox Radio",
         "streamURL": "http://uk3.internet-radio.com:8405/live.m3u",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/MajesticJukebox.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/MajesticJukebox.jpg",
+        "country" : "United Kingdom, England, City of London"
     },
     {
         "title": "Smooth Jazz Florida Christmas",
         "streamURL": "http://uk7.internet-radio.com:8071/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/smoothjazz.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/smoothjazz.png",
+        "country" : "United Kingdom, England, London"
     },
     {
         "title": "Classic Rock Florida HD",
         "streamURL": "http://us4.internet-radio.com:8258/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/classicHD.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/classicHD.jpg",
+        "country" : "United States, Florida"
     },
     {
         "title": "Box UK Radio",
         "streamURL": "http://uk7.internet-radio.com:8226/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/box.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/box.png",
+        "country" : "United Kingdom, England, Birmingham"
     },
     {
-        "title": "CLASSIC ROCK RADIO  HD",
+        "title": "CLASSIC ROCK RADIO HD",
         "streamURL": "http://us5.internet-radio.com:8267/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/classicRock.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/classicRock.png",
+        "country" : "United States, Minnesota, Montevideo"
     },
     {
         "title": "Dance UK Radio",
         "streamURL": "http://uk2.internet-radio.com:8024/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/Dance UK Radio.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/Dance UK Radio.png",
+        "country" : "United Kingdom, England, Birmingham"
     },
     {
         "title": "Christmas Radio Station",
         "streamURL": "http://46.105.118.14:24000/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/chrishd.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/chrishd.png",
+        "country" : "United Kingdom, England, London"
     },
     {
         "title": "PARTY VIBE MUSIC : ALL THE HITS ALL THE TIME",
         "streamURL": "http://uk6.internet-radio.com:8124/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/parv.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/parv.jpg",
+        "country" : "United Kingdom, England, London"
     },
     {
         "title": "1FM - 60s/70s/80s/90s/00s/10s!",
         "streamURL": "http://uk2.internet-radio.com:8358/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/1.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/1.png",
+        "country" : "Switzerland"
     },
     {
         "title": "The Christmas Station - AllHeart Radio",
         "streamURL": "http://158.69.38.194:8034/listen.pls?sid=1",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/chrishd.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/chrishd.png",
+        "country" : "United Kingdom, England, London"
     },
     {
         "title": "Merge 104.8",
         "streamURL": "http://uk7.internet-radio.com:8040/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/me104.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/me104.png",
+        "country" : "Oman, Muscat"
     },
     {
         "title": "Smooth Jazz CD101.9 New York Christmas",
         "streamURL": "http://us4.internet-radio.com:8270/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/scd101.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/scd101.jpg",
+        "country" : "United States, New York"
     },
     {
         "title": "Christmas Melody - Best Beautiful Christmas Songs",
         "streamURL": "http://192.96.205.59:7000/listen.pls?sid=1",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/chrism.jpeg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/chrism.jpeg",
+        "country" : "United States, Arizona , Scottsdale"
     },
     {
-        "title": ".011FM - The Office Mix",
+        "title": "011.FM - The Office Mix",
         "streamURL": "http://shoutcast-new.cdnstream.com:80/listen.pls?sid=1",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/011.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/011.png",
+        "country" : "United States, Michigan, Detroit"
     },
     {
         "title": "Ambient Radio",
         "streamURL": "http://uk2.internet-radio.com:31491/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/amr.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/amr.jpg",
+        "country" : "Australia"
     },
     {
         "title": "Dance Attack FM",
         "streamURL": "http://uk4.internet-radio.com:8049/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/daf.jpg"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/daf.jpg",
+        "country" : "United Kingdom, England , Gloucester"
     },
     {
         "title": "MoveDa House",
         "streamURL": "http://uk7.internet-radio.com:8000/listen.pls",
-        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/mdh.png"
+        "imageURL": "https://raw.githubusercontent.com/tienmanhsc92/ringmusic/master/featurer/mdh.png",
+        "country" : "United Kingdom, London"
     }
 ]
